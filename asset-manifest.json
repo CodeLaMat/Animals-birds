@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Animals-birds/static/css/main.f282c4db.css",
+    "main.js": "/Animals-birds/static/js/main.3f6450d3.js",
+    "index.html": "/Animals-birds/index.html",
+    "main.f282c4db.css.map": "/Animals-birds/static/css/main.f282c4db.css.map",
+    "main.3f6450d3.js.map": "/Animals-birds/static/js/main.3f6450d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f282c4db.css",
+    "static/js/main.3f6450d3.js"
+  ]
+}
