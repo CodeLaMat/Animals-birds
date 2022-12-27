@@ -4,7 +4,7 @@
 
 Welcome to my Animals&Birds application. This application is created as a task assigned to me as a part of my studies in REACT22S programme.
 
-Animals&Birds is a web application where users can get pictures of animals and birds by their name, add/remove likes to/of each animal/bird. Users also can remove the card of each animal/bir from the list. The pictures are fetched from internet by name, so there can be some surprising images in not matching the name of the animal/bird.
+Animals&Birds is a web application where users can get pictures of animals and birds by their name, add/remove likes to/of each animal/bird. Users also can remove the card of each animal/bird from the list. The pictures are fetched from internet by name, so there can be some surprising images not matching the name of the animal/bird.
 
 ## Technologies used
 
