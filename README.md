@@ -17,7 +17,7 @@ Animals&Birds is a web application where users can get pictures of animals and b
 
 ## Setup and usage
 
-Live page [here](https://codelamat.github.io/tasteIT/). Note! You may face difficulties to see the database in livepage since the database is in local db file. It is recomended to clone the gitHub link and run the server locally.
+Live page [here](https://codelamat.github.io/Animals-birds/)
 
 ## Screenshot
 
@@ -25,11 +25,11 @@ Live page [here](https://codelamat.github.io/tasteIT/). Note! You may face diff
 
 ![ScreenShot](./src/assets/ScreenShots/1.png)
 
-### Recipes page
+### Birds page
 
 ![ScreenShot](./src/assets/ScreenShots/2.png)
 
-### Add recipe page
+### Animals page
 
 ![ScreenShot](./src/assets/ScreenShots/3.png)
 
@@ -44,7 +44,7 @@ Eyvaz Alishov
 
 Copyright © 2022 [Eyvaz Alishov] (https://github.com/CodeLaMat)
 
-This project is [MIT] licensed (https://github.com/CodeLaMat/tasteIT/blob/master/LICENSE)
+This project is [MIT] licensed (https://github.com/CodeLaMat/Animals-birds/blob/master/LICENSE)
 
 # Getting Started with Create React App
 
