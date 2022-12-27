@@ -42,9 +42,9 @@ Eyvaz Alishov
 
 ## License
 
-Copyright © 2022 [Eyvaz Alishov] (https://github.com/CodeLaMat)
+Copyright © 2022 [Eyvaz Alishov](https://github.com/CodeLaMat)
 
-This project is [MIT] licensed (https://github.com/CodeLaMat/Animals-birds/blob/master/LICENSE)
+This project is [MIT](https://github.com/CodeLaMat/Animals-birds/blob/master/LICENSE) licensed
 
 # Getting Started with Create React App
 
